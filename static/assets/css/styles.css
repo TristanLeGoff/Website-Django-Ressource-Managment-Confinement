@@ -1,0 +1,18 @@
+.btn {
+  margin: 0.5rem;
+}
+
+.d-xl-flex.justify-content-xl-center.align-items-xl-center {
+  margin: 10rem auto;
+  max-width: 60rem;
+  max-height: 30rem;
+}
+
+.center-div {
+  margin-top: 4rem;
+}
+
+.center {
+  margin: 1rem;
+}
+
